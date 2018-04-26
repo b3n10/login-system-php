@@ -42,3 +42,21 @@ a.signup {
 section {
 	text-align: center;
 }
+
+section .signup-wrapper {
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+section .signup-wrapper input {
+	display: block;
+	width: 300px;
+	padding: 5px;
+	margin-top: 7px;
+}
+
+section .signup-wrapper button {
+	margin-top: 7px;
+	padding: 5px;
+	color: #111;
+}
