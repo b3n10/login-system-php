@@ -60,3 +60,12 @@ section .signup-wrapper button {
 	padding: 5px;
 	color: #111;
 }
+
+span.error {
+	background-color: #b20000;
+	color: #fff;
+}
+span.success {
+	background-color: #1e911a;
+	color: #fff;
+}
